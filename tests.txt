@@ -1,0 +1,51 @@
+
+
+## CSC 365
+## Lab 1-a test suite
+## TC - 1
+## Test requirements: R6
+## Command T:
+## input: HAMER
+## expected output: StFirst & Last
+
+## TC - 2
+## R6
+## Command T:
+## input: HUNGER
+## Expected output: error
+
+## TC - 3:
+## R7 & R9
+## Command G:
+## input: Valid Grade, option H
+## Expected output: Student detail of highest GPA
+
+## TC - 4:
+## R7 & R9
+## Command G:
+## input: Valid Grade, no H/L
+## Expected output: List of students in that grade
+
+## TC - 6:
+## R8
+## Command B:
+## input: Invalid bus number
+## Expected output: Empty/error
+
+## TC - 9:
+## R10
+## Command A:
+## input: Invalid grade
+## Expected output: error
+
+## TC - 10:
+## R11
+## Command I:
+## Expected output: List of grades and student count
+
+## TC - 11:
+## R12
+## Command Q:
+## Expected output: terminate
+
+
